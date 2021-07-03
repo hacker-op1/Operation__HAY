@@ -162,7 +162,7 @@ for i in range(0,len(predicted),3):
 
 
 import pandas as pd
-df = pd.DataFrame(outputs, index =myPicList,columns =['Value'])
+df = pd.DataFrame(outputs, index =myPicList,columns =['Result'])
 df.to_csv('Operation_HAY_2.csv')
 print("csv file is created")
 
