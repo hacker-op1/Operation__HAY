@@ -5,6 +5,9 @@ Files:
 3) inference1.py
 4) inference2.py
 5) try2.pth
+6) Dataset - Data/aug
+
+Dataset was created by using files at Data/orig.
 
 Aim: 1.To classify the expression as infix/prefix/postfix
      2. To evaluate the value of expression
@@ -19,3 +22,10 @@ Working Algo:
 	(inference2.py)
   
   try2.pth is the final model used
+
+To Run the model:
+Type python inference1.py path
+           Or
+Type python inference2.py path
+
+path - folder where images are kept.
