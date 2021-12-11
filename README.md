@@ -29,3 +29,5 @@ Type python inference1.py path
 Type python inference2.py path
 
 path - folder where images are kept.
+
+Result is shown in this link - https://www.linkedin.com/posts/harshit-kalra-14189620a_in-collaboration-with-yogya-agrawal-optical-activity-6818107813814902784-B-Vl
